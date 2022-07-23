@@ -1,0 +1,15 @@
+D:\dev\cs\NewStyleDAL\Dal\bin\Debug\net5.0\Dal.deps.json
+D:\dev\cs\NewStyleDAL\Dal\bin\Debug\net5.0\Dal.dll
+D:\dev\cs\NewStyleDAL\Dal\bin\Debug\net5.0\Dal.pdb
+D:\dev\cs\NewStyleDAL\Dal\bin\Debug\net5.0\Model.dll
+D:\dev\cs\NewStyleDAL\Dal\bin\Debug\net5.0\Model.pdb
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.csproj.AssemblyReference.cache
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.AssemblyInfoInputs.cache
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.AssemblyInfo.cs
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.csproj.CoreCompileInputs.cache
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.csproj.CopyComplete
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.dll
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\ref\Dal.dll
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\Dal.pdb
+D:\dev\cs\NewStyleDAL\Dal\obj\Debug\net5.0\refint\Dal.dll
